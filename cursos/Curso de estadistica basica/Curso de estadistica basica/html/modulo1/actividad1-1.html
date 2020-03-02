@@ -240,15 +240,14 @@
 								<form class="card widget-feed col-md-8">
 										<h1 class="feed-title card-title">Quiz 1</h1>
 
-										<h3 class="feed-subtitle">Pregunta 1</h3>
-										<p>La estadística trata acerca de la:</p>
+										<h3 class="feed-subtitle">1. La estadística trata acerca de la:</h3>
 										<div class="feed-body form-group pregunta_1">
 											<div class="row">
 												<div class="col-sm-12">
 													<div class="form-check">
 														<div class="row mrg-top-30">
 															<div class="col-1 align-self-center">
-																<input type="radio" name="respuesta" id="p1_1" value="incorrect1">
+																<input class="quest1" type="radio" name="respuesta" id="p1_1" value="incorrect">
 															</div>
 															<div class="col-11">
 																<label class="form-check-label" for="p1_1">Recopilación de datos.</label>
@@ -258,7 +257,7 @@
 													<div class="form-check">
 															<div class="row mrg-top-30">
 																<div class="col-1 align-self-center">
-																	<input type="radio" name="respuesta" id="p1_1" value="incorrect1">
+																	<input class="quest1" type="radio" name="respuesta" id="p1_1" value="incorrect">
 																</div>
 																<div class="col-11">
 																	<label class="form-check-label" for="p1_1">Descripción de datos.</label>
@@ -268,7 +267,7 @@
 													<div class="form-check">
 															<div class="row mrg-top-30">
 																<div class="col-1 align-self-center">
-																	<input type="radio" name="respuesta" id="p1_1" value="incorrect1">
+																	<input class="quest1" type="radio" name="respuesta" id="p1_1" value="incorrect">
 																</div>
 																<div class="col-11">
 																	<label class="form-check-label" for="p1_1">Obtención de conclusiones de los datos.</label>
@@ -278,7 +277,7 @@
 													<div class="form-check">
 															<div class="row mrg-top-30">
 																<div class="col-1 align-self-center">
-																	<input type="radio" name="respuesta" id="p1_1" value="correct1">
+																	<input class="quest1" type="radio" name="respuesta" id="p1_1" value="correct">
 																</div>
 																<div class="col-11">
 																	<label class="form-check-label" for="p1_1">Todas las anteriores.</label>
@@ -289,22 +288,19 @@
 											</div>
 											<div class="row mrg-top-30">
 												<div class="col-sm-12">
-													<input type="button" class="btn btn-primary btn-rounded pull-right" name="pregunta_1" value="Verificar">
+													<input id="check1" type="button" class="btn btn-primary btn-rounded pull-right" name="pregunta_1" value="Verificar">
 												</div>
-											</div>
-											
+											</div>											
 										</div>
 
-
 										<div class="feed-body form-group pregunta_2">
-											<h3>Pregunta 2</h3>
-											<p>¿Por qué piensa que buena parte de los datos sobre educación se recopilan mediante muestreo en lugar de censos?</p>
+											<h3>2. ¿Por qué piensa que buena parte de los datos sobre educación se recopilan mediante muestreo en lugar de censos?</h3>
 											<div class="row">
 												<div class="col-sm-12">
 													<div class="form-check">
 														<div class="row mrg-top-30">
 															<div class="col-1 align-self-center">
-																<input type="radio" name="respuesta" id="p1_1" value="resp-1">
+																<input class="quest2" type="radio" name="respuesta" id="p1_1" value="incorrect">
 															</div>
 															<div class="col-11">
 																<label class="form-check-label" for="p1_1">Es menos costoso obtener una muestra que un censo.</label>
@@ -314,7 +310,7 @@
 													<div class="form-check">
 															<div class="row mrg-top-30">
 																<div class="col-1 align-self-center">
-																	<input type="radio" name="respuesta" id="p1_1" value="resp-2">
+																	<input class="quest2" type="radio" name="respuesta" id="p1_1" value="incorrect">
 																</div>
 																<div class="col-11">
 																	<label class="form-check-label" for="p1_1">La inferencia permite a los investigadores obtener información suficientemente precisa a partir de una muestra.</label>
@@ -324,7 +320,7 @@
 													<div class="form-check">
 															<div class="row mrg-top-30">
 																<div class="col-1 align-self-center">
-																	<input type="radio" name="respuesta" id="p1_1" value="correct1">
+																	<input class="quest2" type="radio" name="respuesta" id="p1_1" value="incorrect">
 																</div>
 																<div class="col-11">
 																	<label class="form-check-label" for="p1_1">A veces es muy difícil tener acceso a una población.</label>
@@ -334,7 +330,7 @@
 													<div class="form-check">
 															<div class="row mrg-top-30">
 																<div class="col-1 align-self-center">
-																	<input type="radio" name="respuesta" id="p1_1" value="correct1">
+																	<input class="quest2" type="radio" name="respuesta" id="p1_1" value="correct">
 																</div>
 																<div class="col-11">
 																	<label class="form-check-label" for="p1_1">Todas las anteriores.</label>
@@ -345,7 +341,7 @@
 											</div>
 											<div class="row mrg-top-30">
 												<div class="col-sm-12">
-													<input type="button" class="btn btn-primary btn-rounded pull-right" name="pregunta_2" value="Verificar"> 
+													<input id="check2" type="button" class="btn btn-primary btn-rounded pull-right" name="pregunta_2" value="Verificar"> 
 												</div>
 											</div>
 											
@@ -353,14 +349,13 @@
 
 
 										<div class="feed-body form-group pregunta_3">
-											<h3>Pregunta 3</h3>
-											<p>Desde una perspectiva estadística, ¿qué es una población?</p>
+											<h3>3. Desde una perspectiva estadística, ¿qué es una población?</h3>
 											<div class="row">
 												<div class="col-sm-12">
 													<div class="form-check">
 														<div class="row mrg-top-30">
 															<div class="col-1 align-self-center">
-																<input type="radio" name="respuesta" id="p1_1" value="correct2">
+																<input class="quest3" type="radio" name="respuesta" id="p1_1" value="incorrect">
 															</div>
 															<div class="col-11">
 																<label class="form-check-label" for="p1_1">Los habitantes de un país.</label>
@@ -370,7 +365,7 @@
 													<div class="form-check">
 														<div class="row mrg-top-30">
 															<div class="col-1 align-self-center">
-																<input type="radio" name="respuesta" id="p1_1" value="incorrect2">
+																<input class="quest3" type="radio" name="respuesta" id="p1_1" value="incorrect">
 															</div>
 															<div class="col-11">
 																<label class="form-check-label" for="p1_1">Una parte de los objetos (o sujetos) sobre los cuales se desea obtener información.</label>
@@ -380,7 +375,7 @@
 													<div class="form-check">
 														<div class="row mrg-top-30">
 															<div class="col-1 align-self-center">
-																<input type="radio" name="respuesta" id="p1_1" value="correct2">
+																<input class="quest3" type="radio" name="respuesta" id="p1_1" value="correct">
 															</div>
 															<div class="col-11">
 																<label class="form-check-label" for="p1_1">El conjunto de todos los objetos (o sujetos) acerca de los cuales se desea obtener información.</label>
@@ -390,7 +385,7 @@
 													<div class="form-check">
 														<div class="row mrg-top-30">
 															<div class="col-1 align-self-center">
-																<input type="radio" name="respuesta" id="p1_1" value="correct2">
+																<input class="quest3" type="radio" name="respuesta" id="p1_1" value="incorrect">
 															</div>
 															<div class="col-11">
 																<label class="form-check-label" for="p1_1">Todas las anteriores.</label>
@@ -401,17 +396,10 @@
 											</div>
 											<div class="row mrg-top-30">
 												<div class="col-sm-12">
-													<input type="button" class="btn btn-primary btn-rounded pull-right" name="pregunta_3" value="Verificar"> 
+													<input id="check3" type="button" class="btn btn-primary btn-rounded pull-right" name="pregunta_3" value="Verificar"> 
 												</div>
 											</div>
 										</div>
-
-
-										<!-- <div class="row">
-											<div class="col">
-												<p>Ya sabes cuáles situaciones pueden ser causantes de que se originen las plagas, ahora verás una de las formas para controlar estas plagas. </p>
-											</div>
-										</div> -->
 
 										<div class="row text-center">
 											<div class="col">
@@ -457,7 +445,7 @@
 		<script src="../../assets/vendors/jquery/dist/jquery.min.js"></script>
 		<script src="../../assets/js/recycled/navigationbar.js"></script>
 		<script src="../../assets/vendors/popper.js/dist/umd/popper.min.js"></script>
-<script src="../../assets/vendors/bootstrap/dist/js/bootstrap.js"></script>
+		<script src="../../assets/vendors/bootstrap/dist/js/bootstrap.js"></script>
 	  <script src="../../assets/vendors/PACE/pace.min.js"></script>
 		<script src="../../assets/vendors/perfect-scrollbar/js/perfect-scrollbar.jquery.js"></script>
 
@@ -468,7 +456,8 @@
 		<!-- build:js assets/js/app.min.js -->
 		<!-- core js -->
 		<script src="../../assets/js/app.js"></script>
-		<script src="../../assets/js/quizes/quiz-origen-plagas.js"></script>
+		<!-- <script src="../../assets/js/quizes/quiz-origen-plagas.js"></script> -->
+		<script src="../../assets/js/quizes/quiz1-1.js"></script>
 
 		<script src="../../assets/js/progreso.js"></script>
 		<!--Aqui se pone el porcentaje completado,se puedo pasar como una division de (numero de paginas/total de paginas)-->
