@@ -7,9 +7,22 @@
 .flex-paragraph {
 	justify-content: center;
 	margin-left: 4%;
-}
+} 
 
 .resize {
-	width: 30%;
-	height: 30%;
+	max-width: 50%;
+  margin: auto;
+}
+
+.resize-dual {
+	max-width: 45%;
+  margin: auto;
+}
+
+.centered-img {
+	align-content: center;
+}
+
+.space-img {
+
 }
