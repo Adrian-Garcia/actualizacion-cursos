@@ -8,9 +8,9 @@ $("#sideNav").append(
 			<div class="side-nav-inner">
 				<div class="side-nav-logo" style="background-color: #1E8334;">
 					<a href="http://www.centroscomunitariosdeaprendizaje.org.mx/" target="_blank">
-						<div class="logo logo-dark" style="background-image: url('../../assets/images/logo/logo.png')">
+						<div class="logo logo-dark" style="background-image: url('assets/images/logo/logo.png')">
 						</div>
-						<div class="logo logo-white" style="background-image: url('../../assets/images/logo/logo.png')">
+						<div class="logo logo-white" style="background-image: url('assets/images/logo/logo.png')">
 						</div>
 					</a>
 					<div class="mobile-toggle side-nav-toggle">
