@@ -17,7 +17,7 @@
 
 :root {
   /* Cambiar el valor de la variable según la temática del curso.*/
-  --theme-color: #a0522d;
+  --theme-color: #1E8334;
 }
 
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700|Roboto:300,400,500,700");
@@ -1922,7 +1922,7 @@ iframe { border: 0; }
 
 .rtl .pdd-left-20 { padding-right: 20px !important; }
 
-.header-primary .header { background-color: #7774e7; color: #ffffff; border-color: #7774e7; }
+.header-primary .header { background-color: red/*#7774e7*/; color: #ffffff; border-color: #7774e7; }
 
 .header-primary .header .header-container ul > li > a { color: #ededed; }
 
