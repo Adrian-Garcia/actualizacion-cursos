@@ -9,6 +9,12 @@
 	margin-left: 4%;
 } 
 
+.flex-self{
+	display: flex;
+	align-content: space-around;
+	align-items: center;
+}
+
 .resize {
 	max-width: 50%;
   margin: auto;
@@ -25,4 +31,13 @@
 
 .space-img {
 
+}
+
+.flex-button {
+	display: flex;
+	justify-content: space-around;
+}
+
+.flex-button-inline > .row {
+	margin: 2%;
 }
