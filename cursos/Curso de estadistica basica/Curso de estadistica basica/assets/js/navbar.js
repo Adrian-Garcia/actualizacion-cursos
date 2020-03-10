@@ -30,11 +30,27 @@ $("#sideNav").append(
 						</a>
 					</li>
 					<li class="nav-item active">
+						<a href="../../html/objetivo/objetivo.html">
+							<span class="icon-holder">
+								<i class="ei-foggy"></i>
+							</span>
+							<span class="title">Objetivo</span>
+						</a>
+					</li>
+					<li class="nav-item active">
 						<a href="../../html/introduccion/introduccion.html">
 							<span class="icon-holder">
 								<i class="ei-foggy"></i>
 							</span>
 							<span class="title">Introducción</span>
+						</a>
+					</li>
+					<li class="nav-item active">
+						<a href="../../html/Metodologia/Metodologia.html">
+							<span class="icon-holder">
+								<i class="ei-foggy"></i>
+							</span>
+							<span class="title">Metodología</span>
 						</a>
 					</li>
 					<li class="nav-item dropdown">
