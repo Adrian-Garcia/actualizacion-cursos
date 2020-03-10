@@ -22,7 +22,7 @@ $("#sideNav").append(
 				<!--Inician contenidos laterales-->
 				<ul class="side-nav-menu scrollable">
 					<li class="nav-item active">
-						<a class="mrg-top-30" href="index.html">
+						<a class="mrg-top-30" href="../../index.html">
 							<span class="icon-holder">
 								<i class="ti-home"></i>
 							</span>
@@ -30,7 +30,7 @@ $("#sideNav").append(
 						</a>
 					</li>
 					<li class="nav-item active">
-						<a href="html/introduccion/introduccion.html">
+						<a href="../../html/introduccion/introduccion.html">
 							<span class="icon-holder">
 								<i class="ei-foggy"></i>
 							</span>
@@ -49,7 +49,7 @@ $("#sideNav").append(
 						</a>
 						<ul class="dropdown-menu">
 							<li>
-								<a href="html/temario/temario.html" class="side-index-general">Temario</a>
+								<a href="../../html/temario/temario.html" class="side-index-general">Temario</a>
 							</li>
 							<!-- Módulo 1 -->
 							<li class="nav-item dropdown">
@@ -61,37 +61,37 @@ $("#sideNav").append(
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="html/modulo1/modulo1-0.html" class="side-index-general">
+										<a href="../../html/modulo1/modulo1-0.html" class="side-index-general">
 											Introducción
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo1/modulo1-1.html" class="side-index-general">
+										<a href="../../html/modulo1/modulo1-1.html" class="side-index-general">
 											Estadística y datos
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo1/modulo1-2.html" class="side-index-general">
+										<a href="../../html/modulo1/modulo1-2.html" class="side-index-general">
 												Descripción de los datos
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo1/modulo1-3.html" class="side-index-general">
+										<a href="../../html/modulo1/modulo1-3.html" class="side-index-general">
 											Recopilación de datos
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo1/modulo1-4.html" class="side-index-general">
+										<a href="../../html/modulo1/modulo1-4.html" class="side-index-general">
 											Poblaciones y muestras 
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo1/modulo1-5.html" class="side-index-general">
+										<a href="../../html/modulo1/modulo1-5.html" class="side-index-general">
 											Inferencia 
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo1/modulo1-6.html" class="side-index-general">
+										<a href="../../html/modulo1/modulo1-6.html" class="side-index-general">
 											Explicación y predicción 
 										</a>
 									</li>
@@ -108,32 +108,32 @@ $("#sideNav").append(
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="html/modulo2/modulo2-0.html" class="side-index-general">
+										<a href="../../html/modulo2/modulo2-0.html" class="side-index-general">
 											Introducción
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo2/modulo2-1.html" class="side-index-general">
+										<a href="../../html/modulo2/modulo2-1.html" class="side-index-general">
 											Variables y constantes
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo2/modulo2-2.html" class="side-index-general">
+										<a href="../../html/modulo2/modulo2-2.html" class="side-index-general">
 											Escalas de medición
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo2/modulo2-3.html" class="side-index-general">
+										<a href="../../html/modulo2/modulo2-3.html" class="side-index-general">
 											Conversión de escalas
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo2/modulo2-4.html" class="side-index-general">
+										<a href="../../html/modulo2/modulo2-4.html" class="side-index-general">
 											Medición: confiabilidad y validez
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo2/modulo2-5.html" class="side-index-general">
+										<a href="../../html/modulo2/modulo2-5.html" class="side-index-general">
 											Variables dependientes e independientes
 										</a>
 									</li>
@@ -150,17 +150,17 @@ $("#sideNav").append(
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="html/modulo3/modulo3-0.html" class="side-index-general">
+										<a href="../../html/modulo3/modulo3-0.html" class="side-index-general">
 											Introducción
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo3/modulo3-1.html"
+										<a href="../../html/modulo3/modulo3-1.html"
 											class="side-index-general">¿Qué es un gráfico?
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo3/modulo3-2.html" class="side-index-general">
+										<a href="../../html/modulo3/modulo3-2.html" class="side-index-general">
 											Los ejes de un gráfico (X e Y)
 										</a>
 									</li>
@@ -177,12 +177,12 @@ $("#sideNav").append(
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="html/modulo4/modulo4-0.html" class="side-index-general">
+										<a href="../../html/modulo4/modulo4-0.html" class="side-index-general">
 											Introducción
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo4/modulo4-1.html" class="side-index-general">
+										<a href="../../html/modulo4/modulo4-1.html" class="side-index-general">
 											Trazo de un gráfico
 										</a>
 									</li>
@@ -198,22 +198,22 @@ $("#sideNav").append(
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="html/modulo5/modulo5-0.html" class="side-index-general">
+										<a href="../../html/modulo5/modulo5-0.html" class="side-index-general">
 											Introducción
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo5/modulo5-1.html" class="side-index-general">
+										<a href="../../html/modulo5/modulo5-1.html" class="side-index-general">
 											Variables discretas y continuas
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo5/modulo5-2.html" class="side-index-general">
+										<a href="../../html/modulo5/modulo5-2.html" class="side-index-general">
 											¿Qué es una distribución de frecuencias?
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo5/modulo5-3.html" class="side-index-general">
+										<a href="../../html/modulo5/modulo5-3.html" class="side-index-general">
 											Distribuciones de frecuencia relativas
 										</a>
 									</li>
@@ -229,27 +229,27 @@ $("#sideNav").append(
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="html/modulo6/modulo6-0.html" class="side-index-general">
+										<a href="../../html/modulo6/modulo6-0.html" class="side-index-general">
 											Introducción
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo6/modulo6-1.html" class="side-index-general">
+										<a href="../../html/modulo6/modulo6-1.html" class="side-index-general">
 											Distribuciones de frecuencia continuas
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo6/modulo6-2.html" class="side-index-general">
+										<a href="../../html/modulo6/modulo6-2.html" class="side-index-general">
 											La distribución normal
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo6/modulo6-3.html" class="side-index-general">
+										<a href="../../html/modulo6/modulo6-3.html" class="side-index-general">
 											Otros tipos de distribuciones continuas
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo6/modulo6-4.html" class="side-index-general">
+										<a href="../../html/modulo6/modulo6-4.html" class="side-index-general">
 											El concepto de quintil
 										</a>
 									</li>
@@ -265,32 +265,32 @@ $("#sideNav").append(
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="html/modulo7/modulo7-0.html" class="side-index-general">
+										<a href="../../html/modulo7/modulo7-0.html" class="side-index-general">
 											Introducción
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo7/modulo7-1.html" class="side-index-general">
+										<a href="../../html/modulo7/modulo7-1.html" class="side-index-general">
 											Medidas de “Tendencia Central”
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo7/modulo7-2.html" class="side-index-general">
+										<a href="../../html/modulo7/modulo7-2.html" class="side-index-general">
 											Cálculo de la Media
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo7/modulo7-3.html" class="side-index-general">
+										<a href="../../html/modulo7/modulo7-3.html" class="side-index-general">
 											El promedio ponderado
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo7/modulo7-4.html" class="side-index-general">
+										<a href="../../html/modulo7/modulo7-4.html" class="side-index-general">
 											La moda
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo7/modulo7-5.html" class="side-index-general">
+										<a href="../../html/modulo7/modulo7-5.html" class="side-index-general">
 											La mediana
 										</a>
 									</li>
@@ -306,17 +306,17 @@ $("#sideNav").append(
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="html/modulo8/modulo8-0.html" class="side-index-general">
+										<a href="../../html/modulo8/modulo8-0.html" class="side-index-general">
 											Introducción
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo8/modulo8-1.html" class="side-index-general">
+										<a href="../../html/modulo8/modulo8-1.html" class="side-index-general">
 											Comparación de las Medidas de Tendencia Central
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo8/modulo8-2.html" class="side-index-general">
+										<a href="../../html/modulo8/modulo8-2.html" class="side-index-general">
 											Mediana versus Media
 										</a>
 									</li>
@@ -332,27 +332,27 @@ $("#sideNav").append(
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="html/modulo9/modulo9-0.html" class="side-index-general">
+										<a href="../../html/modulo9/modulo9-0.html" class="side-index-general">
 											Introducción
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo9/modulo9-1.html" class="side-index-general">
+										<a href="../../html/modulo9/modulo9-1.html" class="side-index-general">
 											Medidas de Dispersión
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo9/modulo9-2.html" class="side-index-general">
+										<a href="../../html/modulo9/modulo9-2.html" class="side-index-general">
 											La Desviación Estándar
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo9/modulo9-3.html" class="side-index-general">
+										<a href="../../html/modulo9/modulo9-3.html" class="side-index-general">
 											Desviación estándar y varianza
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo9/modulo9-4.html" class="side-index-general">
+										<a href="../../html/modulo9/modulo9-4.html" class="side-index-general">
 											Medidas de Dispersión en Distribuciones Asimétricas
 										</a>
 									</li>
@@ -368,17 +368,17 @@ $("#sideNav").append(
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="html/modulo10/modulo10-0.html" class="side-index-general">
+										<a href="../../html/modulo10/modulo10-0.html" class="side-index-general">
 											Introducción
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo10/modulo10-1.html" class="side-index-general">
+										<a href="../../html/modulo10/modulo10-1.html" class="side-index-general">
 											La Curva de Lorenz
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo10/modulo10-2.html" class="side-index-general">
+										<a href="../../html/modulo10/modulo10-2.html" class="side-index-general">
 											El Índice de Gini
 										</a>
 									</li>
@@ -394,21 +394,21 @@ $("#sideNav").append(
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="html/modulo11/modulo11-0.html" class="side-index-general">
+										<a href="../../html/modulo11/modulo11-0.html" class="side-index-general">
 											Introducción
 										</a>
 										<li>
-										<a href="html/modulo11/modulo11-1.html" class="side-index-general">
+										<a href="../../html/modulo11/modulo11-1.html" class="side-index-general">
 											Correlación
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo11/modulo11-2.html" class="side-index-general">
+										<a href="../../html/modulo11/modulo11-2.html" class="side-index-general">
 											Correlación y Causalidad
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo11/modulo11-3.html" class="side-index-general">
+										<a href="../../html/modulo11/modulo11-3.html" class="side-index-general">
 											Variables dependientes e independientes
 										</a>
 									</li>
@@ -425,22 +425,22 @@ $("#sideNav").append(
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="html/modulo12/modulo12-0.html" class="side-index-general">
+										<a href="../../html/modulo12/modulo12-0.html" class="side-index-general">
 											Introducción
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo12/modulo12-1.html" class="side-index-general">
+										<a href="../../html/modulo12/modulo12-1.html" class="side-index-general">
 											Coeficiente de Pearson
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo12/modulo12-2.html" class="side-index-general">
+										<a href="../../html/modulo12/modulo12-2.html" class="side-index-general">
 											Representación Gráfica de la Correlación
 										</a>
 									</li>
 									<li>
-										<a href="html/modulo12/modulo12-3.html" class="side-index-general">
+										<a href="../../html/modulo12/modulo12-3.html" class="side-index-general">
 											Una Nota sobre Análisis de regresión
 										</a>
 									</li>
@@ -449,7 +449,7 @@ $("#sideNav").append(
 						</ul>
 					</li>
 					<li class="nav-item active">
-						<a href="html/politicas/politicas.html">
+						<a href="../../html/politicas/politicas.html">
 							<span class="icon-holder">
 								<i class="ei-preview"></i>
 							</span>
@@ -457,7 +457,7 @@ $("#sideNav").append(
 						</a>
 					</li>
 					<li class="nav-item active">
-						<a href="html/contacto/contacto.html">
+						<a href="../../html/contacto/contacto.html">
 							<span class="icon-holder">
 								<i class="ei-email"></i>
 							</span>
@@ -465,7 +465,7 @@ $("#sideNav").append(
 						</a>
 					</li>
 					<li class="nav-item active">
-						<a href="html/creditos/creditos.html">
+						<a href="../../html/creditos/creditos.html">
 							<span class="icon-holder">
 								<i class="ti-info-alt"></i>
 							</span>
