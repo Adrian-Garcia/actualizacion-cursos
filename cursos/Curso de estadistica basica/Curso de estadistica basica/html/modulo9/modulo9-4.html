@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
-		<title>Tema 4: Medidas de Dispersión en Distribuciones Asimétricas | CVA - Centro Virtual de Aprendizaje</title>
+		<title>Tema 2: La Desviación Estándar | CVA - Centro Virtual de Aprendizaje</title>
 
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="../../assets/images/logo/favicon.png">
@@ -31,6 +31,7 @@
 			<div class="layout">
 				<!-- Side Nav START -->
 				<div class="side-nav" id="sideNav"></div>
+				<!-- Side Nav END -->
 
 				<!-- Page Container START -->
 				<div class="page-container">
@@ -62,100 +63,38 @@
 
 
 								<!-- Your content goes here -->
-								
-								<div class="row">
-									<div class="col">
-										<div class="card">
-											<div class="card-block">
-												<h1 class="mrg-btm-20 card-title">Tema 3: Medidas de Dispersión en Distribuciones Asimétricas</h1>
-												<div class="mrg-top-20">
-													<p>Con respecto a la medición de la dispersión en distribuciones asimétricas o sesgadas (muy importantes en las ciencias sociales), el análisis estadístico es más complicado. Como reformador de la educación, usted debe comprender al menos una de las herramientas utilizada para analizar distribuciones asimétricas: el análisis de quintiles. Los quintiles son una herramienta útil de uso común en las áreas de la economía y el financiamiento de la educación; especialmente para abordar los problemas de equidad.</p>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
 
 								<div class="row">
 									<div class="col">
 										<div class="card">
 											<div class="card-block">
 												<div class="mrg-top-20">
-													<p>El Cuadro 12 (abajo) representa un análisis de quintiles que describe y compara la distribución del ingreso en las poblaciones de Brasil y de Eslovaquia. La distribución del ingreso de un país siempre se distribuye asimétricamente.</p>
+													<p>La desviación estándar es un indicador en extremo valioso con muchas aplicaciones. Por ejemplo, los estadísticos saben que cuando un conjunto de datos se distribuye de manera “normal”, el 68% de las observaciones de la distribución tiene un valor que se encuentra a menos de una desviación estándar de la media. También saben que el 96% de todas las observaciones tiene un valor no es mayor a la media más o menos dos desviaciones estándar (la Figura 18 grafica esta información).</p>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
 
-								<div class="row">
-									<div class="col-md-12">
-										<div class="card">
-											<div class="card-block">
-												<h4 class="card-title">Cuadro 12. Ingreso per cápita y distribución del ingreso en Brasil y Eslovaquia (1997)</h4>
-												<div class="table-overflow">
-													<table class="table">
-														<thead>
-															<tr>
-																<th></th>
-																<th>Ingreso per cápita (media nacional)</th>
-																<th>Ingreso per cápita (Q1 o 20% más pobre)</th>
-																<th>Ingreso per cápita (Q2 o 20% siguiente más pobre)</th>
-																<th>Ingreso per cápita (Q3 o 20% medio)</th>
-																<th>Ingreso per cápita (Q4 o 20% siguiente más rico)</th>
-																<th>Ingreso per cápita (Q5 o 20% más rico)</th>
-															</tr>
-														</thead>
-														<tbody>
-															<tr>
-																<td>Brasil</td>
-																<td>US$4.716</td>
-																<td>US$589</td>
-																<td>US$1.344</td>
-																<td>US$2.334</td>
-																<td>US$4.174</td>
-																<td>US$15.138</td>
-															</tr>
-															<tr>
-																<td>Eslovaquia</td>
-																<td>US$3.960</td>
-																<td>US$2.356</td>
-																<td>US$3.128</td>
-																<td>US$3.703</td>
-																<td>US$4.396</td>
-																<td>US$6.217</td>
-															</tr>
-														</tbody>
-													</table>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
+								<hr>
 
 								<div class="row">
 									<div class="col">
 										<div class="card">
 											<div class="card-block">
 												<div class="mrg-top-20">
-													<p>Para representar gráficamente la dispersión en distribuciones asimétricas, se suele usar el índice de Gini, que proporciona una medida numérica de la distribución de los recursos dentro de una población, y su contraparte gráfica, la curva de Lorenz. (Para su información, el Gini de Brasil es 60,1 y el de Eslovaquia 19,5. En la siguiente sección explicaremos el significado de estos valores cuando estudiemos el índice de Gini y la curva de Lorenz).</p>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
+													<p><i>La desviación estándar de una población es normalmente representada por la letra griega (sigma), cuando se calcula sobre la base de toda la población; por la letra s (minúscula) cuando se infiere de una muestra; y por la letra S (mayúscula) cuando simplemente corresponde a la desviación estándar de una muestra. La fórmula de la desviación estándar es:</i></p>
 
-								<div class="row">
-									<div class="col">
-										<div class="card">
-											<div class="card-block">
-												<h2 class="card-title text-center">Actividades</h2>
-												<div class="flex-button">
-													<div class="row text-center">
-														<div class="col">
-															<a href="actividad9-1.html" class="btn btn-dark no-mrg-btm">Quiz</a>
-														</div>
-													</div>
+													<img src="../../assets/images/course/modulo9/modulo9-2/m11_fig_3.gif">
+
+
+													<p>donde</p>
+
+													<img src="../../assets/images/course/modulo9/modulo9-2/m11_fig_4.gif">
+
+													<p><i>representa la suma de las diferencias al cuadrado entre cada observación y la media y N representa el número total de observaciones. La aparente complicación de la fórmula surge del hecho de que al restar la media a los valores de cada observación individual para calcular las diferencias ( ), los valores de las observaciones que están bajo la media producirán diferencias negativas, mientras que los valores de las observaciones que son mayores que la media proporcionarán valores positivos. Así, las diferencias positivas y negativas se compensarán entre sí y, en el caso de una distribución simétrica, producirán una suma igual a cero para la suma de las desviaciones individuales. Para evitar este problema, las desviaciones se elevan al cuadrado, de modo que todas las desviaciones sean positivas y se puedan sumar. Después, se calcula la raíz cuadrada para ‘compensar’, por decirlo así, la elevación al cuadrado anterior de los valores. Cuando no se incluye la raíz cuadrada, el resultado es otro famoso indicador de dispersión conocido como la “varianza”.</i></p>
+
+													<img src="../../assets/images/course/modulo9/modulo9-2/m11_fig_5.gif">
 												</div>
 											</div>
 										</div>
@@ -185,7 +124,13 @@
 											<a class="btn btn-actual-page" role="button" href="modulo9-4.html">
 												<span>4</span>
 											</a>
-											<a class="btn btn-default" role="button" href="../temario/temario.html">
+											<a class="btn btn-default" role="button" href="modulo9-5.html">
+												<span>5</span>
+											</a>
+											<a class="btn btn-default" role="button" href="modulo9-6.html">
+												<span>6</span>
+											</a>
+											<a class="btn btn-default" role="button" href="modulo9-5.html">
 												<span>Siguiente</span>
 											</a>
 										</div>
@@ -195,10 +140,10 @@
 								<div class="card widget-feed">
 									<div class="row">
 										<div class="col-lg-8">
-											<h1 class="feed-title tag tag-info">Tema 4</h1>
+											<h1 class="feed-title tag tag-info">Tema 2</h1>
 											<h3 class="feed-subtitle">Tu Progreso</h3>
 											<div class="progress" style="height: 20px;" id="bar">
-												<div class="progress-bar bg-info" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" style="max-width: 100%" >100%</div>
+												<div class="progress-bar bg-info" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" style="max-width: 60%" >60%</div>
 											</div>
 										</div>
 										<div class="col-lg-4">
@@ -215,7 +160,6 @@
 										</div>
 									</div>
 								</div>
-
 
 								<!-- Fin de medidor de avance y flechas -->
 
@@ -270,7 +214,7 @@
 
 
 		<!-- Aquí se inserta el porcentage del círculo de progreso como una fracción -->
-		<script type="text/javascript">show(1.00)</script>
+		<script type="text/javascript">show(0.60)</script>
 
 		<!-- endbuild -->
 
