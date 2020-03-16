@@ -38,7 +38,7 @@ $("#sideNav").append(
 						</a>
 					</li>
 					<li class="nav-item active">
-						<a href="../../html/mapa-conceptual/mapa-conceptual.html">
+						<a href="../../html/mapa/mapa-conceptual.html">
 							<span class="icon-holder">
 								<i class="ti-map-alt"></i>
 							</span>
