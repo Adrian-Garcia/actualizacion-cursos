@@ -6,7 +6,7 @@ $("#sideNav").append(
 	`
 		<div class="side-nav" id="sideNav">
 			<div class="side-nav-inner">
-				<div class="side-nav-logo" style="background-color: #1E8334;">
+				<div class="side-nav-logo">
 					<a href="http://www.centroscomunitariosdeaprendizaje.org.mx/" target="_blank">
 						<div class="logo logo-dark" style="background-image: url('assets/images/logo/logo.png')">
 						</div>
