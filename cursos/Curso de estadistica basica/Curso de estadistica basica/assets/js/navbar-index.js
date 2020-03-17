@@ -1,5 +1,3 @@
-console.log("ajua");
-
 $("#sideNav").empty();
 
 $("#sideNav").append(

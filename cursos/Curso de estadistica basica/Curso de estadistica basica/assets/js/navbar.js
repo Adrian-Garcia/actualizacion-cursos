@@ -1,5 +1,3 @@
-console.log("ajua");
-
 $("#sideNav").empty();
 
 $("#sideNav").append(
@@ -30,14 +28,6 @@ $("#sideNav").append(
 						</a>
 					</li>
 					<li class="nav-item active">
-						<a href="../../html/objetivo/objetivo.html">
-							<span class="icon-holder">
-								<i class="ei-foggy"></i>
-							</span>
-							<span class="title">Objetivo</span>
-						</a>
-					</li>
-					<li class="nav-item active">
 						<a href="../../html/introduccion/introduccion.html">
 							<span class="icon-holder">
 								<i class="ei-foggy"></i>
@@ -46,9 +36,17 @@ $("#sideNav").append(
 						</a>
 					</li>
 					<li class="nav-item active">
+						<a href="../../html/objetivo/objetivo.html">
+							<span class="icon-holder">
+								<i class="ei-hourglass"></i>
+							</span>
+							<span class="title">Objetivo</span>
+						</a>
+					</li>
+					<li class="nav-item active">
 						<a href="../../html/Metodologia/Metodologia.html">
 							<span class="icon-holder">
-								<i class="ei-foggy"></i>
+								<i class="ei-strategy"></i>
 							</span>
 							<span class="title">Metodología</span>
 						</a>
