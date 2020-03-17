@@ -30,23 +30,23 @@ $("#sideNav").append(
 					<li class="nav-item active">
 						<a href="html/objetivo/objetivo.html">
 							<span class="icon-holder">
-								<i class="ei-foggy"></i>
+								<i class="ei-dart-board"></i>
 							</span>
-							<span class="title">Objetivo</span>
+							<span class="title">Objetivos</span>
 						</a>
 					</li>
 					<li class="nav-item active">
-						<a href="html/introduccion/introduccion.html">
+						<a href="html/mapa/mapa-conceptual.html">
 							<span class="icon-holder">
-								<i class="ei-foggy"></i>
+								<i class="ti-map-alt"></i>
 							</span>
-							<span class="title">Introducción</span>
+							<span class="title">Mapa conceptual</span>
 						</a>
 					</li>
 					<li class="nav-item active">
 						<a href="html/Metodologia/Metodologia.html">
 							<span class="icon-holder">
-								<i class="ei-foggy"></i>
+								<i class="ei-achievement"></i>
 							</span>
 							<span class="title">Metodología</span>
 						</a>
@@ -468,6 +468,14 @@ $("#sideNav").append(
 								<i class="ei-preview"></i>
 							</span>
 							<span class="title">Políticas</span>
+						</a>
+					</li>
+					<li class="nav-item active">
+						<a href="html/contacto/contacto.html">
+							<span class="icon-holder">
+								<i class="ei-open-book"></i>
+							</span>
+							<span class="title">Bibliografía</span>
 						</a>
 					</li>
 					<li class="nav-item active">

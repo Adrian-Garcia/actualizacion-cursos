@@ -28,7 +28,7 @@ $("#sideNav").append(
 						</a>
 					</li>
 					<li class="nav-item active">
-						<a href="../../html/introduccion/introduccion.html">
+						<a href="../../html/objetivo/objetivo.html">
 							<span class="icon-holder">
 								<i class="ei-dart-board"></i>
 							</span>
