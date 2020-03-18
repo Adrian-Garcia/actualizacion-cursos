@@ -35,6 +35,11 @@
   margin: auto;
 }
 
+.resize-40 {
+	max-width: 40%;
+  margin: auto;
+}
+
 .resize {
 	max-width: 40%;
   margin: auto;
@@ -100,4 +105,8 @@
 
 .flex-button-inline > .row {
 	margin: 2%;
+}
+
+.mrg-left-x {
+	margin-left: 15%;
 }
