@@ -50,6 +50,11 @@
   margin: auto;
 }
 
+.resize-42 {
+	max-width: 42%;
+  margin: auto;	
+}
+
 .resize-50 {
 	max-width: 50%;
   margin: auto;
@@ -99,6 +104,11 @@
 }
 
 .flex-button {
+	display: flex;
+	justify-content: space-around;
+}
+
+.flex-button-fixed {
 	display: flex;
 	justify-content: space-around;
 }
