@@ -471,7 +471,7 @@ $("#sideNav").append(
 						</a>
 					</li>
 					<li class="nav-item active">
-						<a href="html/contacto/contacto.html">
+						<a href="html/bibliografia/bibliografia.html">
 							<span class="icon-holder">
 								<i class="ei-open-book"></i>
 							</span>
