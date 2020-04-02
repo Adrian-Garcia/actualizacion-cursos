@@ -44,7 +44,7 @@ $("#sideNav").append(
 						</a>
 					</li>
 					<li class="nav-item active">
-						<a href="../../html/Metodologia/Metodologia.html">
+						<a href="../../html/metodologia/metodologia.html">
 							<span class="icon-holder">
 								<i class="ei-achievement"></i>
 							</span>
