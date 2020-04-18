@@ -9,10 +9,24 @@
 	margin-left: 4%;
 } 
 
+.flex-fix {
+	display: flex;
+}
+
 .flex-self {
 	display: flex;
 	align-content: space-around;
 	align-items: center;
+}
+
+.resize-10 {
+	max-width: 10%;
+	margin: auto;
+}
+
+.resize-15 {
+	max-width: 15%;
+	margin: auto;
 }
 
 .resize-20 {

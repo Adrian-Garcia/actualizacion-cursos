@@ -63,7 +63,7 @@
 <section>
 
 	<table>
-		<tr><th>noUiSlider 7</th><th>noUiSlider 8</th></tr>
+		<tr><th style="color: #a0522d;">noUiSlider 7</th><th style="color: #a0522d;">noUiSlider 8</th></tr>
 
 <tr><td colspan="2">Initialization</td></tr>
 
